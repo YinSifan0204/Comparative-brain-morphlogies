@@ -1,0 +1,5 @@
+This repository contains all the data and codes used in paper: 
+S. Yin, C. Liu, G. P. T. Choi, Y. Jung, K. Heuer, R. Toro, and L. Mahadevan, “Morphogenesis and morphometry of brain folding patterns across species,” bioRxiv, 2025. DOI: 10.1101/2025.03.05.641692.
+1. "Brain_morphologies_data" contains all the surface data for ;
+2. "Morphometic_analysis" contains morphometric analysis tools FLASH and codes for generating Fig4, FigS.3, FigS.4 and Table S2;
+3. "Numerical_simulations" contains finite element method codes for simulating growing brains.
