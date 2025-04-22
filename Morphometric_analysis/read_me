@@ -1,3 +1,8 @@
 This folder contains morphometric analysis method in the paper: Morphogenesis and morphometry of brain folding patterns across species--Sec. MORPHOMETRIC ANALYSIS.
 1. Folder "FLASH": contains all morphometirc analysis tools developed by Gary P.T. Choi and modified by Sifan Yin;
-2.
+2. Folder "data_morphometric_analysis" contains all the surface data for morphometric analysis;
+3. Codes: 
+(1) DiskConf_map_LM_open_half_Macaque_Left_ShapeIndex_04262024.m   with data input "Macaque_adult_left.mat";
+(2) DiskConf_map_LM_open_half_ferret_ShapeIndexPlot_left_0426.m    with data input "Ferret3_P16_left.mat";
+(3) DiskConf_map_LM_open_half_human_SI_calcu_left_0426.m           with data input "Ferret3_P16_left.mat"
+
