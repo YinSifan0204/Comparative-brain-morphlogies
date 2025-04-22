@@ -40,7 +40,7 @@ int main(int argc, char* argv[]) {
 	ifstream filu;
 	
 	// note: should rescale the mesh so that the major radius = 1
-	filu.open("ellipsoid.mesh"); 
+	filu.open("brains.mesh"); 
 	const double a = 0.005; // Mesh spacing - set manually based on the average spacing in the mesh or smaller
 	const int di = 1000; // Output data once every di steps 
 	// Read nodes
